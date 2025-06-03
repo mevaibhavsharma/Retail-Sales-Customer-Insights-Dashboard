@@ -1,0 +1,501 @@
+customer_id,name,age,gender,location,signup_date,churn_flag
+1,Allison Hill,56,Male,Raymondview,2025-02-11,0
+2,Noah Rhodes,46,Male,North Anthony,2024-10-19,0
+3,Angie Henderson,32,Other,South April,2022-11-02,1
+4,Daniel Wagner,60,Other,West Kimberlymouth,2024-07-03,0
+5,Cristian Santos,25,Male,New Justin,2022-12-29,0
+6,Connie Lawrence,38,Other,Gonzalezberg,2023-10-21,0
+7,Abigail Shaffer,56,Male,South Geraldmouth,2022-09-22,0
+8,Gina Moore,36,Male,Port Evelynmouth,2023-05-29,0
+9,Gabrielle Davis,40,Female,Jennaside,2023-11-14,0
+10,Ryan Munoz,28,Other,Patriciaburgh,2023-10-03,0
+11,Monica Herrera,28,Male,Port Michael,2023-02-09,0
+12,Jamie Arnold,41,Male,North Tracie,2025-02-06,0
+13,Lisa Hensley,53,Other,East Kristy,2022-10-09,0
+14,Michele Williams,57,Female,West Angelastad,2025-03-30,0
+15,Dylan Miller,41,Female,Laraside,2025-02-10,0
+16,Brian Ramirez,20,Male,New Nicole,2023-10-28,0
+17,Holly Wood,39,Other,West Raymondfort,2024-04-17,0
+18,Derek Zuniga,19,Female,Hammondshire,2022-06-11,0
+19,Lisa Jackson,41,Other,East Teresaland,2023-07-10,0
+20,Carla Gray,61,Other,Owenshaven,2023-04-15,0
+21,Margaret Hawkins DDS,47,Male,Davidside,2023-06-16,0
+22,Patty Perez,55,Female,Port Tammy,2025-05-05,0
+23,Ethan Adams,19,Male,Shawton,2022-09-07,0
+24,Tommy Walter,38,Female,New Ericburgh,2023-11-20,1
+25,Matthew Foster,50,Female,West Sarah,2023-06-27,0
+26,Judy Baker,29,Female,West Stacey,2022-11-08,1
+27,Justin Baker,39,Female,Meghanview,2022-05-26,0
+28,Stephanie Ross,61,Female,Lake Stephanie,2022-08-07,0
+29,Zachary Hicks,42,Other,Davidport,2024-01-14,0
+30,Anthony Rodriguez,44,Male,New Danielleshire,2024-04-04,0
+31,Rebecca Henderson,59,Other,East Donna,2024-03-06,0
+32,James Ferrell,45,Female,Meganshire,2023-02-07,0
+33,Tricia Valencia,33,Male,Port Michelleland,2024-02-27,0
+34,Nathan Maldonado,32,Female,Lake Kelliview,2024-06-28,1
+35,Debra Davidson,64,Male,Port Ashley,2024-01-03,1
+36,Jeffrey Chavez,61,Other,South Pamelaside,2023-11-21,1
+37,Sherri Baker,20,Male,Dawnport,2024-09-19,0
+38,Cassandra Gaines,54,Male,Sanchezfurt,2023-12-29,0
+39,Elizabeth Fowler,24,Male,Shawnton,2022-10-29,1
+40,Brittany Farmer,38,Male,South Robert,2024-06-07,0
+41,Paula Moreno,26,Male,Harrisberg,2024-11-07,0
+42,Fred Smith,56,Female,Michellemouth,2025-03-01,0
+43,Sherry Decker,35,Male,Theresaberg,2025-04-26,0
+44,Anthony Humphrey,21,Male,Zacharyville,2023-05-10,1
+45,Angelica Tucker,42,Other,Johnville,2023-02-01,0
+46,Philip Cannon,31,Male,Shannonberg,2024-04-25,0
+47,John Pierce,26,Other,North Kellyfurt,2022-09-16,0
+48,Shane Henderson,43,Female,Wrightburgh,2022-07-15,0
+49,Joshua Blair,19,Male,Sarahmouth,2023-08-26,0
+50,Eric Carney,37,Other,Port Erik,2022-06-25,1
+51,Jessica Holmes,45,Other,Jimenezport,2023-10-02,0
+52,Danny Morgan,64,Female,Johnsonfurt,2023-07-04,0
+53,Crystal Robinson,24,Male,Levyborough,2022-11-03,0
+54,Mark Perez,61,Male,Brandonport,2022-09-17,1
+55,Shannon Jones,25,Other,Harperfort,2023-11-06,0
+56,Michael Lewis,64,Male,Amandaville,2023-02-13,1
+57,Timothy Duncan,52,Other,Andersonview,2023-12-29,0
+58,Richard Aguirre,31,Male,Kathrynstad,2023-01-29,0
+59,Brent Jordan,34,Other,South Brettside,2022-09-18,0
+60,John Daniel,53,Male,West Angela,2024-09-20,0
+61,Victoria Garcia,57,Female,South Williamside,2022-10-16,0
+62,Gerald Hensley,21,Male,Marciaville,2023-10-31,0
+63,Connor West,19,Male,North Phillip,2024-12-02,0
+64,Donald Wright,23,Female,Angelastad,2025-01-02,1
+65,Jessica Callahan,59,Male,East Carrie,2024-06-12,0
+66,Amber Kidd,21,Female,Porterton,2025-05-23,0
+67,Tracy House,46,Male,East Jenniferfort,2022-07-12,1
+68,Carol Tucker,35,Other,Hernandezhaven,2024-03-25,0
+69,James Brown,43,Other,West Sarah,2025-03-05,0
+70,William Baker,61,Male,Franciscoport,2023-02-05,1
+71,Jordan Henderson,51,Male,Williamhaven,2024-12-23,0
+72,Whitney Peters,27,Male,Ericksonport,2024-03-29,0
+73,Brittney Phillips,53,Other,Cabrerastad,2023-01-24,0
+74,Lauren Daniels,31,Male,Emilychester,2022-08-16,0
+75,Amy Silva,48,Other,Lauratown,2022-10-29,0
+76,Sarah Moore,32,Female,Bakershire,2023-10-21,0
+77,Angela Lopez,25,Other,Lake Brett,2023-04-09,1
+78,Megan Young,31,Other,Jacksonfurt,2023-03-16,0
+79,Steve Sanchez,40,Female,Port Erin,2024-02-19,0
+80,Lisa Barnes,57,Other,New Stacyville,2025-05-12,0
+81,Kelly Donovan,38,Male,North Scott,2024-10-01,0
+82,Mike Allen,33,Male,Hernandezborough,2024-09-10,0
+83,Michael Evans,62,Other,Shawfort,2023-07-11,0
+84,Paul Jones,35,Male,Lake Devinborough,2025-03-16,0
+85,Zachary Ferrell,64,Other,Whitneyfort,2023-08-05,0
+86,Daniel Baker,41,Male,Edwardsburgh,2023-08-29,1
+87,Shirley Suarez,43,Male,Barrmouth,2023-05-29,0
+88,Christopher Bass,42,Other,Ericaview,2022-10-21,1
+89,Lisa Archer,62,Male,Leebury,2022-08-10,0
+90,Aimee Montoya,58,Other,Angelabury,2024-01-25,1
+91,Matthew Mcmillan,46,Male,Kellieborough,2024-10-29,0
+92,Brian Rodriguez,32,Male,Stewartstad,2024-09-24,0
+93,Denise Jacobs,62,Female,Keithshire,2024-06-25,0
+94,Christina Walters,18,Female,Huangfurt,2023-01-18,0
+95,John Whitehead,42,Other,Stephanieberg,2022-08-17,0
+96,Anna Henderson,24,Female,Bobbyland,2023-12-06,0
+97,Aaron Wise,26,Other,Sandraview,2022-05-30,0
+98,Deborah Figueroa,41,Female,Lewisside,2024-03-19,0
+99,Jessica Smith,18,Male,Sarahview,2022-10-08,0
+100,Stephen Mckee,61,Other,North Christina,2023-08-25,0
+101,Sandra Aguilar,25,Other,East Brent,2025-03-18,0
+102,Cameron Parker,41,Male,Lake Jesse,2025-01-20,0
+103,Rebecca Valencia,28,Other,South Markfort,2024-12-12,0
+104,Christine Wright,34,Other,Lake Kellitown,2024-06-09,1
+105,Richard Henson,25,Female,South Denise,2023-03-31,0
+106,Marc Moore,52,Other,Woodsborough,2022-10-22,0
+107,Sharon Cherry,52,Male,Manuelton,2022-07-03,0
+108,Sierra Johnson,50,Female,Lake Audreyside,2023-04-11,1
+109,Evelyn Galvan,22,Female,East Robertburgh,2023-02-14,0
+110,Sharon Cochran,59,Male,Port Randyfort,2025-02-09,0
+111,Richard Rodriguez,56,Male,Lake Suzanne,2023-08-21,0
+112,Shannon Walker,58,Female,Nancytown,2022-09-29,0
+113,Julia Torres,45,Other,Ashleyville,2024-05-29,0
+114,Crystal Johnson,24,Female,Justinside,2022-11-20,1
+115,Garrett Lin,26,Male,Smallberg,2023-09-16,1
+116,Diana May,25,Female,Nelsonville,2024-02-01,0
+117,William Herrera,29,Male,Franciscomouth,2024-05-25,0
+118,Ashley Waller,51,Female,Jennifertown,2024-06-22,1
+119,Victor Baker,50,Other,Krystalshire,2025-03-16,0
+120,Jeffrey Chandler,40,Female,East Cheryl,2023-07-10,0
+121,Larry Dixon,41,Female,Wilcoxhaven,2022-10-13,0
+122,Kenneth Scott,54,Male,Christopherville,2025-02-15,0
+123,April Frost,52,Male,East Thomas,2024-09-16,0
+124,Michelle Harmon,61,Male,North Jose,2024-01-17,0
+125,Helen Jones,57,Female,South Karen,2023-03-08,1
+126,Erin Edwards,39,Other,Kevinshire,2023-12-22,1
+127,Michelle Evans,44,Male,West Desireebury,2024-01-07,0
+128,Jason Powell,52,Male,Lake Davidport,2023-12-19,0
+129,Cameron Fisher,18,Female,South Gina,2023-03-10,1
+130,Megan Orr,52,Male,Hannahport,2024-04-16,1
+131,Elizabeth Kelley,54,Other,Christinabury,2022-08-02,0
+132,Dustin Jordan,64,Other,South Eric,2023-07-08,1
+133,Mary Marshall,31,Male,Robertside,2024-04-07,1
+134,Daniel Kennedy,20,Male,Toddborough,2024-05-16,0
+135,Rebecca Jackson,18,Female,Lake Karen,2023-07-08,0
+136,Jose Schultz,22,Other,New Seanstad,2023-05-11,0
+137,Robert Potter,43,Other,New Danielside,2023-07-16,0
+138,Courtney Gonzalez,31,Male,New Amanda,2024-10-17,0
+139,David Alvarez,56,Female,West Melissa,2022-08-28,1
+140,Angel Perry,44,Other,Wilsonborough,2023-01-14,0
+141,Cheyenne Horton,26,Other,Davishaven,2025-05-10,0
+142,David Douglas Jr.,32,Female,Stokesmouth,2025-03-26,0
+143,Patricia Rodriguez,32,Female,New Robert,2022-10-22,0
+144,Christopher Rubio,43,Other,New Stevenport,2022-10-05,1
+145,Amber Wright,59,Other,South Jonathantown,2025-03-27,0
+146,Joyce Solis,30,Female,New Charles,2023-11-10,0
+147,Victoria Larson,49,Other,Cooperland,2024-09-12,0
+148,Stephanie Salazar,56,Male,North Valeriefort,2024-02-27,0
+149,Kathy Rivas,49,Male,West Robertberg,2024-11-26,0
+150,Stephanie Manning,21,Female,Brooksfurt,2023-05-13,0
+151,David Wright,47,Female,Kanefurt,2024-09-30,0
+152,Pamela Boyd,54,Female,Millerside,2022-08-27,0
+153,Denise Jones,40,Male,Lake Michelle,2024-01-16,0
+154,Devon Flores,56,Other,East Victoriafurt,2024-08-13,0
+155,Brenda Hall,62,Male,Lake Tiffany,2024-03-05,1
+156,Michelle Brown,32,Other,Port Andrewport,2024-09-02,0
+157,Joshua Perry,60,Male,Nunezside,2025-04-26,0
+158,Jason Stein,46,Other,Patelbury,2024-05-31,0
+159,Melissa Gates,53,Male,South Michael,2024-10-30,0
+160,Jamie Smith,30,Female,Jacobville,2023-05-26,0
+161,Paul Castaneda,49,Male,Port Donnatown,2024-06-02,0
+162,Jennifer Adkins,24,Other,East Carlos,2023-09-01,1
+163,Lindsey Walker,39,Male,South Carlaton,2022-09-24,0
+164,Jeffrey Johnson,45,Male,Lake Bradley,2024-01-28,0
+165,Michael Powell,19,Male,Youngborough,2022-07-17,0
+166,John Anderson,59,Female,East Williamport,2024-07-12,1
+167,Alyssa Long,62,Male,Port Sabrina,2024-10-28,0
+168,Alyssa Day,23,Female,Barbaramouth,2024-08-04,0
+169,Joel Williams,45,Female,West Nancy,2024-10-28,0
+170,Daniel Murphy,45,Male,South Kevin,2025-04-11,0
+171,Jamie Walton,61,Male,New Stacyburgh,2025-01-12,0
+172,Darlene Miller,61,Male,Peterston,2023-01-09,1
+173,Joshua Cooke,37,Other,Shellyfurt,2022-11-27,0
+174,Matthew Harrington,47,Male,Heatherchester,2024-04-21,0
+175,Nicole Herring,28,Female,West Nicholas,2023-02-17,0
+176,Alex Hernandez,45,Male,Allenbury,2023-02-08,0
+177,Michael Elliott,42,Other,Meredithberg,2023-04-19,0
+178,Michael Wang,56,Male,Melendezside,2023-03-20,0
+179,Lawrence Adkins,50,Other,Faulknerside,2022-12-07,0
+180,Robert Oconnell,18,Other,South John,2022-07-30,0
+181,Alexander Collins,44,Male,West Deborah,2024-03-12,0
+182,Tina Sanders,30,Female,Booneland,2022-09-23,0
+183,Angela Vaughn,58,Other,North Joseph,2025-04-20,0
+184,Ashley Barton,20,Male,Port Charlesshire,2024-03-31,0
+185,Lindsay Martinez,56,Male,South Jason,2023-04-03,0
+186,Dr. Hannah Patterson,23,Female,Kevintown,2025-01-23,0
+187,Jonathan Peterson,25,Other,East Suzanne,2023-01-09,1
+188,Samantha Garcia,44,Other,Lake Yvonnefort,2024-12-04,1
+189,Madison Poole,26,Male,Lake Cassandra,2023-06-29,0
+190,Jessica Gross,54,Male,South Rose,2023-10-03,0
+191,Debra Morton,50,Female,Kimberlyfurt,2022-09-06,0
+192,Karen Graham,59,Female,Fergusonstad,2022-10-07,0
+193,Debra Christian,61,Other,Josehaven,2024-01-17,0
+194,Angelica Keith,41,Other,Owensfort,2024-10-05,0
+195,John Bishop,32,Male,Robinstad,2024-02-01,0
+196,Allen Rosales,49,Other,Robertshire,2024-09-28,0
+197,Daniel Salinas,49,Female,Lake Dustin,2023-10-13,0
+198,Spencer Haynes,41,Female,Angelashire,2023-07-28,0
+199,Adam Vaughan,58,Male,Phillipsborough,2024-08-09,0
+200,Nathan Freeman,29,Female,Jerryshire,2024-05-05,0
+201,Melissa Brewer,56,Female,South Andrea,2022-06-13,0
+202,Ricky Davis II,19,Female,Jonathanfort,2025-05-17,0
+203,Elizabeth Perkins,20,Female,Murraystad,2025-01-16,0
+204,Joseph Coleman,54,Male,East Jennifer,2024-11-22,0
+205,Erin Warner,34,Male,Whiteside,2024-08-13,0
+206,David Martinez,19,Other,New Arthurland,2024-03-06,0
+207,Bryan Herrera,19,Female,Port Adamberg,2022-11-15,0
+208,Cathy Robinson,45,Other,North Jasmine,2024-02-27,0
+209,Dr. William Warren,40,Male,East Williamstad,2023-01-12,0
+210,Brian Lee,54,Male,New Danafort,2023-01-10,1
+211,Christopher Smith,49,Male,Smithside,2024-10-21,1
+212,Denise Mccann,50,Male,Smithhaven,2024-11-23,0
+213,Melissa Martinez,18,Male,Amandaport,2024-11-15,0
+214,Katherine Salas,36,Male,New Lisachester,2022-10-27,0
+215,Julie Alexander,19,Male,North Samantha,2022-11-05,0
+216,Anthony Everett,61,Female,East James,2024-10-15,1
+217,Rodney Morales,43,Other,Lisaview,2022-10-28,0
+218,Mark Brown,49,Male,Millerfurt,2023-08-12,0
+219,Justin Torres,23,Female,Cunninghambury,2024-09-03,0
+220,Bailey Duran DDS,49,Female,Gabriellaland,2023-11-10,0
+221,Courtney Mills,21,Other,North Richardfurt,2024-02-22,0
+222,Jeremy Dalton,28,Male,Browntown,2023-07-09,0
+223,Elizabeth Oliver DDS,34,Other,North Vincent,2024-01-10,0
+224,Theresa Clark,55,Male,Newmanmouth,2025-03-07,1
+225,Matthew Moore,41,Female,New Samanthabury,2024-06-17,1
+226,Benjamin Smith,22,Female,Port Heather,2024-10-29,0
+227,Kirk Carter,51,Female,Nelsonland,2024-12-25,0
+228,Michael Warner,23,Female,Rachelshire,2024-05-28,0
+229,Michael Bradshaw,39,Other,East Sarahmouth,2022-07-22,0
+230,Lori Guerrero,28,Male,East Brendafurt,2023-02-16,0
+231,Jessica Stephens,33,Male,West Franciscobury,2023-07-26,0
+232,Susan Serrano,50,Other,Rhodesside,2024-02-09,0
+233,Christopher Parker,26,Male,Patrickberg,2023-01-03,0
+234,Laura Roberts,23,Female,New Juliestad,2025-01-09,0
+235,Michael Lyons,33,Male,North Samuelland,2024-12-25,0
+236,Kathryn Snyder,46,Female,Cassiefurt,2025-04-16,1
+237,Andrew Reynolds,20,Other,Anthonyview,2025-05-06,0
+238,David Davis,37,Male,Henrystad,2024-02-08,0
+239,Sara Johnston,53,Other,Reynoldsshire,2022-07-24,1
+240,Yvonne Chambers,36,Male,Millerport,2024-01-29,0
+241,Andrew Avila,43,Female,Lake Charles,2023-10-21,1
+242,Matthew Moon,20,Other,Ericberg,2025-05-01,0
+243,Kevin Walters,36,Male,Stewartville,2023-05-29,0
+244,Brandon Bailey MD,37,Female,North Sherrymouth,2022-08-09,0
+245,Shannon Rivera,49,Other,Kathleenville,2024-06-01,0
+246,Donna Landry,24,Other,North Jacob,2023-07-16,0
+247,Krista Gibson,58,Male,Hawkinshaven,2023-12-24,0
+248,Frank Cordova,50,Male,Garcialand,2022-06-25,0
+249,Jose Travis,57,Male,Angelamouth,2023-10-31,0
+250,Kimberly Gutierrez,56,Female,Smithchester,2023-09-07,1
+251,Isaiah Avila,35,Male,Maxwellside,2023-09-20,1
+252,Olivia Harris,57,Other,New Adriana,2023-08-03,0
+253,Tanya Kim,18,Other,Jacksonview,2024-06-26,0
+254,Barbara Dudley,28,Male,Josephberg,2025-05-10,0
+255,Cynthia Moore,45,Male,East Ryanchester,2025-04-22,0
+256,Kristen Davis,42,Other,Toddland,2022-10-24,1
+257,Susan Murray MD,40,Female,Johnathanbury,2023-05-14,0
+258,Kathleen Moran,48,Male,Wheelerborough,2022-12-19,0
+259,Denise Davenport,47,Male,Rodriguezport,2023-09-03,0
+260,Mrs. Kristen Reyes,59,Other,South Martinfurt,2024-04-12,0
+261,Katie Suarez,52,Male,Scottchester,2023-10-05,0
+262,Desiree Tyler,24,Female,West Malik,2023-07-17,1
+263,Timothy Romero,33,Other,South Leon,2024-03-02,0
+264,Diane Evans,43,Male,Novakport,2024-12-19,0
+265,Yvonne Burns,19,Other,Faulknerbury,2025-02-20,0
+266,Joshua Reed,18,Male,Nicholasfurt,2022-10-10,1
+267,Kimberly Gibson,29,Male,Danielshire,2023-03-12,1
+268,Colin Terry,22,Male,New Wendy,2024-04-10,0
+269,Cynthia Rowe,54,Female,Lake Katrina,2023-04-18,0
+270,Patrick Thornton,49,Female,Lake Stevenborough,2024-02-16,0
+271,Jasmin Alvarado,26,Other,Salinasland,2024-06-15,0
+272,Veronica Simpson,58,Male,Chambersberg,2024-08-04,1
+273,Jonathan Lawrence,52,Male,Johnberg,2023-12-26,0
+274,Shelly Alexander,36,Female,Mccormickland,2022-08-20,0
+275,Joyce Bowen,33,Male,Ewingfort,2024-08-02,0
+276,Matthew Moore,20,Female,Fergusonchester,2023-01-26,0
+277,Wayne Morgan,37,Male,Port Tanyaside,2022-09-03,0
+278,Marie Christian,41,Other,North Kaylastad,2023-09-20,0
+279,Shannon James,50,Male,Lake Cheyenne,2024-07-20,0
+280,Nathan Malone,41,Male,Rasmussenmouth,2024-02-10,0
+281,Amanda Jones,28,Female,Rodriguezville,2022-12-21,0
+282,Tammie Bright,25,Male,Jeffreyhaven,2024-08-16,0
+283,Jessica Garcia,53,Male,South Neil,2024-10-24,0
+284,Shelia Wallace,55,Female,Bartonshire,2022-07-08,0
+285,Stephanie Williams,57,Other,West Whitney,2023-02-18,0
+286,Elaine Brooks,37,Other,Garciachester,2023-03-20,0
+287,Joseph Knight,52,Female,North Marieberg,2023-04-01,0
+288,Carolyn Miller,42,Female,Larrymouth,2022-08-22,0
+289,Lisa Allen,52,Female,New Timothy,2023-06-16,0
+290,Briana Murray,42,Female,Davismouth,2022-07-15,1
+291,David Smith,46,Female,Carloston,2024-05-03,0
+292,Stephanie Byrd,35,Other,North Melindaville,2022-08-11,0
+293,Jeremy Reed,63,Other,Lake John,2023-12-05,0
+294,Margaret Coleman,35,Female,New Ethan,2025-05-23,0
+295,Ryan Gonzalez,19,Male,Mullenbury,2023-03-30,0
+296,John Young,52,Female,Sotoburgh,2023-07-24,0
+297,Laura Haney,33,Male,Fosterborough,2023-12-18,0
+298,William Barrett,58,Female,Vargasfurt,2024-05-15,0
+299,Keith Jennings,53,Female,Lake Jasonview,2024-07-17,0
+300,Amber Obrien,50,Other,New Cristianside,2024-01-31,0
+301,Tanner Mitchell DDS,21,Male,West Mark,2025-02-05,0
+302,Heather Fields,50,Male,Wilsonfort,2022-12-03,0
+303,Megan Le,31,Other,Candicefurt,2025-04-17,0
+304,Sara Fuller,38,Other,West Michaelmouth,2022-07-11,0
+305,Maria Parker,37,Other,Port Emily,2023-06-04,0
+306,Kevin Oconnor,25,Other,Samanthashire,2023-12-24,0
+307,Edward Burgess,24,Male,Lake Dennisville,2024-06-22,0
+308,Carlos Ryan,20,Male,West Daryl,2024-12-02,1
+309,Kiara Mcintyre,34,Female,Heatherhaven,2024-04-16,0
+310,Dawn Summers,50,Female,Barnesberg,2023-02-24,0
+311,Dr. Paul Morgan,29,Other,Hendersonfort,2024-05-31,0
+312,Victor Taylor,39,Other,New Garrett,2024-11-21,0
+313,Shannon Ramsey,39,Other,Donaldmouth,2024-09-27,0
+314,Tracy Ballard,63,Female,Harveystad,2023-11-19,0
+315,Richard Smith,47,Female,South Derrickfurt,2023-11-10,1
+316,Jordan Chambers,55,Female,Ortizfort,2023-02-03,0
+317,Lauren Carson,55,Female,Mckinneymouth,2023-06-30,1
+318,Ashley Hall,62,Female,Jacksonshire,2025-04-29,0
+319,Stephen Hoffman,25,Female,Port Kathleenport,2022-10-12,0
+320,Connie Brown,44,Female,West Jeffreyport,2023-08-10,0
+321,Susan Turner,44,Other,Port Stephen,2022-07-06,1
+322,Charles Shah,51,Other,Dunnville,2024-01-15,0
+323,Johnathan Davis,38,Other,West Kimberlystad,2022-08-10,1
+324,Brandy Chavez,47,Other,Port Jenniferside,2023-02-02,0
+325,Natalie Bautista,50,Female,South Curtis,2024-10-29,0
+326,Patrick Moore,45,Male,West Nancy,2023-04-22,1
+327,Brett Burns,64,Female,South Joseland,2023-05-03,0
+328,Trevor Johnson,50,Male,Grimesville,2025-02-23,0
+329,Jeremy Sampson,22,Other,East Lisa,2023-05-09,0
+330,Ariana Jennings,36,Female,Michellechester,2025-04-11,1
+331,Vanessa Howard,21,Other,New Donald,2023-04-11,1
+332,Colton Martinez,52,Female,Port Jamie,2023-07-17,0
+333,Jordan Bates,34,Other,New Michaelview,2025-03-02,0
+334,Linda Smith,61,Male,West Tiffany,2024-02-20,1
+335,Dana Martinez,45,Male,Keithview,2024-07-30,0
+336,Andrea Hubbard,47,Male,East Sydneychester,2022-06-25,0
+337,Daniel Kane,46,Female,West Michelleberg,2025-04-18,1
+338,Charles Lester,63,Male,East Dustin,2022-06-07,0
+339,Scott Thomas,23,Female,Mariafurt,2024-05-30,0
+340,David Thompson,52,Male,Thomasview,2022-12-16,0
+341,Allison Smith,58,Male,Brooksland,2025-02-23,1
+342,Cynthia Morris,54,Female,South Zacharyview,2023-02-18,1
+343,Anthony Harmon,41,Female,Shawnfort,2024-12-13,1
+344,Nichole Alvarez,46,Male,Brandiland,2022-06-07,0
+345,Kayla Rodriguez,63,Female,Reidstad,2023-05-07,1
+346,Theresa Williams,48,Male,Port Amandaborough,2023-06-21,1
+347,Sharon Boyd,52,Female,Summersfort,2024-12-25,0
+348,Victor Brown,50,Other,Marcusport,2023-09-11,1
+349,James Parks,38,Other,Amyberg,2025-02-16,0
+350,Theodore Jones Jr.,49,Other,Kramerton,2023-07-26,0
+351,Ana Hill,40,Other,North Conniemouth,2024-03-13,0
+352,Kimberly Nguyen,50,Other,North Sarahburgh,2023-12-30,0
+353,Kerry Chavez DDS,20,Male,Bryantchester,2023-11-17,0
+354,Michael Farrell,35,Other,Lake Regina,2024-05-07,0
+355,Patricia Le,42,Other,Erikview,2023-06-20,0
+356,Jesse Perez,59,Other,Lake Michaelland,2023-04-28,0
+357,Jesse Perry,48,Other,Elizabethburgh,2024-05-18,0
+358,Jeffery Ortega,20,Female,South Conniebury,2023-09-06,0
+359,Christian Leblanc,57,Male,Riosville,2025-04-10,0
+360,Ronald Davis,63,Other,East Thomasberg,2024-08-10,0
+361,Parker Cain,41,Other,New Erin,2025-01-17,0
+362,Laurie Hoffman,49,Other,North Heatherville,2024-01-31,0
+363,Bryan Gomez,64,Male,Bensonfort,2024-11-17,1
+364,Nicole Parrish,39,Female,East Patrickville,2022-10-30,0
+365,Tracy Burke,40,Male,West Michaelport,2022-06-05,0
+366,Kenneth Lewis,19,Female,South Kiara,2024-07-27,0
+367,Courtney Rodriguez,44,Other,Lake Victoria,2025-03-18,1
+368,Holly Farmer,59,Other,North Alyssa,2023-12-27,0
+369,Renee Bruce,19,Male,New Debramouth,2024-10-13,1
+370,Sabrina Austin,43,Male,Jenniferberg,2025-02-23,0
+371,Allison Hickman,34,Female,Jensenmouth,2024-12-02,1
+372,Debra White,57,Female,North Peggy,2024-12-26,0
+373,Ellen Morgan,50,Male,Port David,2023-08-07,1
+374,Sergio Knight,26,Female,Bellchester,2023-08-31,0
+375,Charles Schultz,60,Male,Kyliebury,2025-04-22,0
+376,Paul Lewis,56,Female,Deannabury,2022-11-08,0
+377,Glen Wood,46,Male,Kimberlytown,2024-06-11,0
+378,Paula Bradley,59,Male,Jamiehaven,2022-09-01,0
+379,Anthony Moore,43,Male,Lake Peter,2023-10-29,1
+380,Megan Nelson,52,Female,Port Rachaelbury,2023-07-28,1
+381,Karla Ramos,42,Female,Cruzbury,2025-02-13,0
+382,Paul Wilson,41,Female,Littleland,2023-10-12,0
+383,Douglas Gregory,30,Male,West Sarahberg,2023-07-29,0
+384,Mr. Andrew Foster,24,Female,Valenciashire,2023-07-04,0
+385,Aimee Turner,53,Female,Diazburgh,2025-03-09,0
+386,Chad Scott,62,Male,Bestland,2025-03-02,0
+387,Adam Burgess,37,Other,New Carlosview,2023-09-01,0
+388,James Padilla,18,Male,North Sandra,2023-03-13,0
+389,Sandra Drake,25,Female,Hunterhaven,2023-01-12,0
+390,Scott Williams,63,Male,Hendersonfurt,2024-08-05,0
+391,Thomas Atkins,33,Other,Lake Amandaberg,2023-06-02,0
+392,Laura Mckinney,31,Male,Christopherland,2022-08-21,0
+393,Brian Smith,29,Female,Port Eric,2024-12-12,1
+394,Robert Montgomery,40,Other,Peterland,2024-02-11,0
+395,Tamara Davis,32,Female,Hollybury,2025-03-16,0
+396,Dana Chapman,45,Other,East Christopherchester,2023-10-03,0
+397,Jennifer Collins,51,Other,South Cherylton,2025-04-16,0
+398,Gary Jackson,19,Male,Elizabethburgh,2022-12-28,1
+399,Ashley Hicks,49,Male,North Jeantown,2022-07-03,0
+400,Hannah Luna,40,Female,South Stephanie,2025-03-08,0
+401,Robin Young,39,Male,Garyberg,2024-07-05,0
+402,Craig Morrison,42,Male,Jessicaville,2023-08-27,1
+403,Mary Thompson,39,Other,West Lindsayview,2023-07-02,1
+404,Kathleen Webster,39,Male,West Jennifershire,2024-03-05,0
+405,Joann Glass,59,Other,South Spencerstad,2024-02-12,0
+406,Madison Weber,23,Other,South Micheleburgh,2024-01-18,0
+407,Lori Hernandez,32,Other,Ericville,2022-07-18,1
+408,Jeremy Turner,60,Female,East Joycetown,2024-11-15,0
+409,Anthony Romero,54,Female,Port Michellebury,2024-10-29,1
+410,Jesse Brown,50,Female,South Michaelberg,2023-03-16,0
+411,Angela Lin,25,Other,Port Austin,2023-11-09,0
+412,Lisa Hunter,61,Female,Walkerbury,2023-05-05,0
+413,Julian Conner,61,Female,Moonmouth,2025-04-25,0
+414,Joanna Pacheco,22,Male,Margaretshire,2024-09-01,0
+415,Erica Alvarez,56,Female,Davidton,2025-02-09,0
+416,Antonio Garcia,21,Female,East Linda,2024-06-02,0
+417,Gwendolyn Klein,23,Other,South Caseymouth,2025-04-02,0
+418,Carrie Wright,62,Other,Kiaraport,2023-12-02,0
+419,Jeffrey Mills,49,Other,Christophermouth,2024-07-21,0
+420,Jake Campbell,47,Other,West Jamesshire,2023-09-03,1
+421,George Harper,64,Other,Jodibury,2023-02-13,1
+422,Maria Jones,52,Other,Richardsonfort,2025-03-11,1
+423,Michael Mitchell,57,Female,Lake Rachel,2024-10-08,1
+424,Mary Escobar,33,Other,East Adam,2023-03-02,0
+425,Felicia Aguilar,30,Other,Johnsonside,2023-08-24,0
+426,Gregory Ponce,59,Male,Cynthiatown,2022-10-23,0
+427,Jenna Larson,47,Female,Aaronfurt,2024-05-25,0
+428,Emily Bennett,36,Female,Daltonhaven,2022-12-09,0
+429,Robin Santiago,34,Female,South Travis,2023-06-30,1
+430,Nancy Jennings,36,Other,East Jenniferland,2024-10-09,0
+431,Maria Henderson,45,Other,East Phyllishaven,2023-03-05,0
+432,Jack White,43,Other,Haynesstad,2025-04-14,0
+433,Travis Tucker,54,Male,Villegasland,2023-10-28,0
+434,Chad Jones,43,Other,New Dennisfurt,2025-03-06,0
+435,Ashley Wise,40,Male,New Ashleychester,2022-10-10,0
+436,Sophia Johnson,26,Female,East Kelly,2023-05-05,1
+437,Ralph Anderson,29,Other,Sarafurt,2023-11-27,0
+438,Christopher Guerra,18,Male,Louisview,2023-05-06,0
+439,Rhonda Martin,18,Male,North Sherry,2023-09-14,1
+440,Jason Rhodes,64,Other,Port Kayla,2024-03-08,1
+441,Jeremy Mitchell,51,Female,East Danielmouth,2023-10-21,1
+442,Joann Ferguson,49,Female,Edwardsville,2023-12-23,1
+443,Robert Harrison,42,Female,Tamiborough,2023-07-03,0
+444,Holly Valentine,57,Male,Parkerview,2024-11-19,0
+445,Mrs. Diane Reyes,62,Male,North Ericport,2023-08-24,0
+446,Tracy Montoya,18,Male,East Marymouth,2024-05-14,0
+447,Brenda Wright,33,Male,North Jennifer,2022-11-23,0
+448,Shelly Spencer,56,Female,Randyton,2024-05-24,0
+449,Ryan Rosales,22,Other,Jorgeburgh,2022-08-16,0
+450,Phillip Nelson,39,Male,South Melissaside,2025-02-03,0
+451,Brittany Kim,46,Male,North Steven,2024-11-16,0
+452,Courtney Hayes,20,Female,North Alexander,2024-11-11,0
+453,Alexander Brown,29,Other,East James,2025-01-13,0
+454,Cynthia Vang,43,Other,Watsonland,2022-09-12,0
+455,Alfred Galvan,33,Female,Samanthaland,2024-05-27,1
+456,Marie Moody,54,Female,North Jamesmouth,2023-03-23,0
+457,Dustin Gallegos,39,Other,North Rebecca,2024-07-10,0
+458,Brenda Thornton,46,Male,Davidmouth,2022-11-27,0
+459,Aaron Miller,31,Other,East Sandrachester,2025-04-16,1
+460,Ruben Dunn,45,Female,Crawfordfurt,2024-01-07,0
+461,Kelsey Rodriguez,22,Male,Thompsonborough,2024-08-25,0
+462,Eric Williams,64,Male,West Joshua,2023-08-31,0
+463,Riley Bryant,47,Female,North Christina,2024-02-25,0
+464,Taylor Carlson,63,Female,Lake Kenneth,2022-08-16,1
+465,Jose Allen,22,Female,Andradefort,2023-01-14,0
+466,Jeffrey Mendez,29,Other,North Joshuaberg,2022-12-24,0
+467,Jason Beck,33,Other,Gonzalezhaven,2023-04-01,1
+468,William Jones,43,Male,Lake Virginia,2023-11-08,1
+469,Katie Mcneil,43,Female,South Kimberlystad,2024-02-19,0
+470,Jeanette Harrison,38,Male,Stephensfort,2024-10-25,1
+471,Veronica King,56,Male,Robertahaven,2024-05-04,0
+472,Richard Cooper,53,Male,Paulburgh,2023-01-02,0
+473,Lori Ingram,50,Male,West Carlatown,2023-09-28,0
+474,Evelyn Williams,47,Female,Brianfort,2023-03-01,0
+475,Robin Thompson,54,Male,Katiebury,2022-09-27,0
+476,Julie Dominguez,40,Female,North John,2024-06-20,1
+477,Robin Brown,27,Female,West Amanda,2023-10-23,1
+478,Judith Carter,22,Other,Port Wendybury,2025-01-29,0
+479,Curtis Williams,53,Female,Kellyburgh,2023-02-23,1
+480,Kaylee Hays,51,Other,East Brittany,2023-09-23,0
+481,Dawn Mullins,48,Female,Robintown,2025-02-03,0
+482,Howard Norman,27,Female,Staceyshire,2022-08-23,0
+483,Evelyn Martinez,36,Female,New Stacy,2022-06-01,0
+484,Steve Paul,49,Other,Weaverburgh,2024-04-26,1
+485,Jasmine Beltran,18,Other,Johnsonton,2023-07-23,1
+486,Jonathan Glass MD,22,Male,New Jeffery,2023-04-15,0
+487,Monica Miller,62,Other,Smithborough,2023-02-10,0
+488,Samantha Gardner,21,Other,West Jennifer,2024-11-05,0
+489,Bobby Guerrero,33,Other,Brianberg,2023-01-26,0
+490,Lance Simmons,41,Other,Port Daniel,2024-06-23,1
+491,Heather Williams,33,Male,Susanstad,2022-10-08,0
+492,Heather Bolton,19,Other,Willismouth,2022-12-12,0
+493,William Gould,45,Female,Marcusburgh,2025-01-03,0
+494,Mark Cox,49,Female,Connerfort,2024-03-28,0
+495,Meghan Cisneros,44,Other,Grantside,2025-02-02,0
+496,Lawrence Harrington,37,Other,Jeffreyshire,2024-03-22,0
+497,Austin Osborne,41,Female,South Kurt,2024-02-10,0
+498,James Bradley,29,Female,Davidtown,2024-03-21,0
+499,Meghan Rush,52,Male,Rosalesshire,2024-06-04,1
+500,Phillip Berry,50,Female,East Carriebury,2024-01-10,0
